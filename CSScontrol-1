@@ -1,0 +1,17 @@
+body 
+
+{background-color:black ;}
+  h1 {color:white;}
+  p {color:white;font-size:30px;}
+  p{text-align:center;}
+  
+  p
+{
+    border-style:dotted;
+    border-width:5px;
+}
+img {
+    display: block;
+    margin: auto;
+   
+}
